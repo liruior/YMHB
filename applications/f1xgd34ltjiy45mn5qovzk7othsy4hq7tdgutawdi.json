@@ -1,0 +1,49 @@
+{
+  "Version": "1.3",
+  "ID": "f1xgd34ltjiy45mn5qovzk7othsy4hq7tdgutawdi",
+  "Issue Number": "9",
+  "Client": {
+    "Name": "SURF Data Repository",
+    "Region": "United Kingdom",
+    "Industry": "Education & Training",
+    "Website": "https://www.surf.nl/",
+    "Social Media": "‪@itcooperativesurf.bsky.social‬",
+    "Social Media Type": "Other",
+    "Role": "Data Preparer"
+  },
+  "Project": {
+    "Brief history of your project and organization": "The Data Repository Service is a trusted digital repository that ensures long-term data preservation and provides an online data publication platform service to share and publish research data. The aim of the service is to provide support for researcher to publish research data and to preserve published datasets for the long-term, thereby satisfying the requirements of publishers, financiers and (Dutch) science organisations regarding data publication. Furthermore, the user has complete freedom to decide on the structure, the metadata schemas, the designated community, and access levels of the published data.\n\nThe repository provides access to mostly open access data which can be found and downloaded by anyone interested. You can find the data repository at https://repository.surfsara.nl. For publishing datasets an account is required, please see this page for information on how to obtain an account.\n\nThere is a direct connection between the data repository service and other SURF services such as the Data Archive. All data in the data repository will eventually end up in the data archive for long-term storage and preservation. The repository is tape-aware, this means that data can automatically be put offline when it is not required for a certain amount of time.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "I will store all public datasets under https://repository.surfsara.nl/, including Cosmogrid, FinBench, LOFAR\n\nthe results of the \"Cosmogrid\" cosmological N-body simulation suites based on the concordance LCDM model.\n\nData sets for the LDBC Financial Benchmark (FinBench) v0.1.0 workload. Stored in tar.gz-compressed CSV files.\n\nIn this data release from the ongoing LOw-Frequency ARray (LOFAR) Two-metre Sky Survey (LoTSS) we present 120-168 MHz images covering 27% of the northern sky.",
+    "Where was the data currently stored in this dataset sourced from": "Other",
+    "How do you plan to prepare the dataset": "First, I downloaded the dataset from https://repository.surfsara.nl/ and categorized it by collection. I then created different directories to categorize the files and packaged them into car files ranging in size from 17GB to 32GB. I then distributed them to the SP via HTTP for storage.",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://repository.surfsara.nl/collection/cosmogrid 69.07 TB\nhttps://repository.surfsara.nl/collection/lotss-dr2 166.23 TB\nhttps://repository.surfsara.nl/datasets/cwi/ldbc-snb-interactive-v1-datagen-v100 5.34 TB\nhttps://repository.surfsara.nl/collection/cosmogrid-2048 67.44 TB\nhttps://repository.surfsara.nl/datasets/cwi/ldbc-snb-bi 21.78 TB",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[ ] I confirm",
+    "What is the expected retrieval frequency for this data": "Yearly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "2 to 3 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, North America, Europe",
+    "How will you be distributing your data to storage providers": "HTTP or FTP server",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f03289271 Germany\nf03315260 Germany\nf03367915 United States\nf03542777 Vietnam\nf03607310 Brazil\nf03603117 United States\nf03559187 United States\nf03100006 HongKong\nf03100007 HongKong",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "3.5PiB",
+    "Single Size Dataset": "450TiB",
+    "Replicas": 8,
+    "Weekly Allocation": "500TiB"
+  },
+  "Lifecycle": {
+    "State": "Submitted",
+    "Validated At": "",
+    "Validated By": "",
+    "Active": true,
+    "Updated At": "2025-08-20 12:03:42.598634216 UTC",
+    "Active Request ID": "",
+    "On Chain Address": "f1xgd34ltjiy45mn5qovzk7othsy4hq7tdgutawdi",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": []
+}
