@@ -35,11 +35,11 @@
     "Weekly Allocation": "500TiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
-    "Validated At": "2025-08-21 07:25:05.862382430 UTC",
+    "State": "Granted",
+    "Validated At": "2025-08-21 07:27:41.401262697 UTC",
     "Validated By": "liruior",
     "Active": true,
-    "Updated At": "2025-08-21 07:25:05.862386526 UTC",
+    "Updated At": "2025-08-21 07:27:41.401258727 UTC",
     "Active Request ID": "a7fb27bf-d6ef-482f-bb91-e73e3a511ec4",
     "On Chain Address": "f1xgd34ltjiy45mn5qovzk7othsy4hq7tdgutawdi",
     "Multisig Address": "false",
@@ -51,9 +51,16 @@
       "Request Type": "First",
       "Created At": "2025-08-21 07:25:05.862388564 UTC",
       "Updated At": "2025-08-21 07:25:05.862390016 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "197032483697459 B",
-      "Signers": []
+      "Signers": [
+        {
+          "Github Username": "liruior",
+          "Signing Address": "f1nwzr7e6hpmbvx73qetdqz7xzzrlz7uk2sybwica",
+          "Created At": "2025-08-21 07:27:38.411000000 UTC",
+          "Message CID": "bafy2bzaced3ue6rg674c77dhjqzum5abm7hypggdumsabu7la4vnj4c2ecvum"
+        }
+      ]
     }
   ]
 }
