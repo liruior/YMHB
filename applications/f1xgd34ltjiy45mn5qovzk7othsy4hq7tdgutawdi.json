@@ -18,7 +18,7 @@
     "Where was the data currently stored in this dataset sourced from": "Other",
     "How do you plan to prepare the dataset": "First, I downloaded the dataset from https://repository.surfsara.nl/ and categorized it by collection. I then created different directories to categorize the files and packaged them into car files ranging in size from 17GB to 32GB. I then distributed them to the SP via HTTP for storage.",
     "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://repository.surfsara.nl/collection/cosmogrid 69.07 TB\nhttps://repository.surfsara.nl/collection/lotss-dr2 166.23 TB\nhttps://repository.surfsara.nl/datasets/cwi/ldbc-snb-interactive-v1-datagen-v100 5.34 TB\nhttps://repository.surfsara.nl/collection/cosmogrid-2048 67.44 TB\nhttps://repository.surfsara.nl/datasets/cwi/ldbc-snb-bi 21.78 TB",
-    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[ ] I confirm",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[x] I confirm",
     "What is the expected retrieval frequency for this data": "Yearly",
     "For how long do you plan to keep this dataset stored on Filecoin": "2 to 3 years",
     "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, North America, Europe",
