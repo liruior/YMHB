@@ -35,7 +35,7 @@
     "Weekly Allocation": "2PiB"
   },
   "Lifecycle": {
-    "State": "ChangesRequested",
+    "State": "Granted",
     "Validated At": "2025-08-22 06:31:07.139452588 UTC",
     "Validated By": "liruior",
     "Active": true,
