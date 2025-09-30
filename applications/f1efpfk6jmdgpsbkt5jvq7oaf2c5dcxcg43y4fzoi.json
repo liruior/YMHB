@@ -2,6 +2,7 @@
   "Version": "1.3",
   "ID": "f1efpfk6jmdgpsbkt5jvq7oaf2c5dcxcg43y4fzoi",
   "Issue Number": "15",
+  "Client Contract Address": "f410fjxhr4kl4fjvuuvnpkesfxaekbujduvswb3is7jq",
   "Client": {
     "Name": "e-youngo",
     "Region": "China",
@@ -35,15 +36,25 @@
     "Weekly Allocation": "2PiB"
   },
   "Lifecycle": {
-    "State": "Submitted",
-    "Validated At": "",
-    "Validated By": "",
+    "State": "ReadyToSign",
+    "Validated At": "2025-09-30 10:32:10.515152569 UTC",
+    "Validated By": "liruior",
     "Active": true,
-    "Updated At": "2025-09-30 04:05:44.350160212 UTC",
-    "Active Request ID": "",
+    "Updated At": "2025-09-30 10:32:10.515161407 UTC",
+    "Active Request ID": "35000d28-8c5a-47c7-9c8c-dc44121f9972",
     "On Chain Address": "f1efpfk6jmdgpsbkt5jvq7oaf2c5dcxcg43y4fzoi",
     "Multisig Address": "false",
     "edited": false
   },
-  "Allocation Requests": []
+  "Allocation Requests": [
+    {
+      "ID": "35000d28-8c5a-47c7-9c8c-dc44121f9972",
+      "Request Type": "First",
+      "Created At": "2025-09-30 10:32:10.515163742 UTC",
+      "Updated At": "2025-09-30 10:32:10.515164565 UTC",
+      "Active": true,
+      "Allocation Amount": "281474976710656 B",
+      "Signers": []
+    }
+  ]
 }
