@@ -1,0 +1,49 @@
+{
+  "Version": "1.3",
+  "ID": "f1qmsr77m2hwpkstckucjqdn3ke7xxu5i57xscthy",
+  "Issue Number": "23",
+  "Client": {
+    "Name": "Guangxi Tongshiling Tourism Development Group Co., Ltd.",
+    "Region": "China",
+    "Industry": "Environment",
+    "Website": "http://www.tongshiling.net/",
+    "Social Media": "0775-6202808",
+    "Social Media Type": "Other",
+    "Role": "Dataset Owner"
+  },
+  "Project": {
+    "Brief history of your project and organization": "Please refer to the official website for details.\n\nhttps://www.cnjingqu.com/client/pc/rights.html?orgId=155\nhttp://www.tongshiling.net/",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "Videos and photos showcasing the culture and landscapes of Guangxi",
+    "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
+    "How do you plan to prepare the dataset": "We generate and send cars and related orders based on this document: https://github.com/tech-greedy/singularity/blob/main/getting-started.md.",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://baike.baidu.com/item/%E9%93%9C%E7%9F%B3%E5%B2%AD%E9%A3%8E%E6%99%AF%E5%8C%BA/908539\nhttp://www.tongshiling.net/\nhttp://www.tongshiling.net/h-col-105.html\nhttp://www.tongshiling.net/h-col-104.html",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[x] I confirm",
+    "What is the expected retrieval frequency for this data": "Yearly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "More than 3 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, North America, South America",
+    "How will you be distributing your data to storage providers": "HTTP or FTP server, Shipping hard drives",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f03573579 United States\nf03593579 United States\nf03573377 Thailand \nf03582468 Singapore\nf03588888 Hong Kong\nf03519199 Guangzhou\nf03519200 Guangzhou\nf03519208 Guangzhou",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "10PiB",
+    "Single Size Dataset": "1.2P",
+    "Replicas": 8,
+    "Weekly Allocation": "2PiB"
+  },
+  "Lifecycle": {
+    "State": "Submitted",
+    "Validated At": "",
+    "Validated By": "",
+    "Active": true,
+    "Updated At": "2025-10-18 15:15:46.606682153 UTC",
+    "Active Request ID": "",
+    "On Chain Address": "f1qmsr77m2hwpkstckucjqdn3ke7xxu5i57xscthy",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": []
+}
