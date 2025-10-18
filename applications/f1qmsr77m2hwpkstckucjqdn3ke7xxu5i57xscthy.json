@@ -2,6 +2,7 @@
   "Version": "1.3",
   "ID": "f1qmsr77m2hwpkstckucjqdn3ke7xxu5i57xscthy",
   "Issue Number": "23",
+  "Client Contract Address": "f410fjxhr4kl4fjvuuvnpkesfxaekbujduvswb3is7jq",
   "Client": {
     "Name": "Guangxi Tongshiling Tourism Development Group Co., Ltd.",
     "Region": "China",
@@ -35,15 +36,25 @@
     "Weekly Allocation": "2PiB"
   },
   "Lifecycle": {
-    "State": "Submitted",
-    "Validated At": "",
-    "Validated By": "",
+    "State": "ReadyToSign",
+    "Validated At": "2025-10-18 16:52:05.174636501 UTC",
+    "Validated By": "liruior",
     "Active": true,
-    "Updated At": "2025-10-18 15:15:46.606682153 UTC",
-    "Active Request ID": "",
+    "Updated At": "2025-10-18 16:52:05.174641008 UTC",
+    "Active Request ID": "5b38a3fe-50c5-4e2f-ad2b-019760b3cc39",
     "On Chain Address": "f1qmsr77m2hwpkstckucjqdn3ke7xxu5i57xscthy",
     "Multisig Address": "false",
     "edited": false
   },
-  "Allocation Requests": []
+  "Allocation Requests": [
+    {
+      "ID": "5b38a3fe-50c5-4e2f-ad2b-019760b3cc39",
+      "Request Type": "First",
+      "Created At": "2025-10-18 16:52:05.174642776 UTC",
+      "Updated At": "2025-10-18 16:52:05.174643873 UTC",
+      "Active": true,
+      "Allocation Amount": "281474976710656 B",
+      "Signers": []
+    }
+  ]
 }
